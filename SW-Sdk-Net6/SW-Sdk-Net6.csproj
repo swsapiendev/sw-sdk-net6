@@ -12,7 +12,7 @@
       <Description>Librería para el consumo de los servicios web de SW sapien®.</Description>
       <PackageProjectUrl></PackageProjectUrl>
       <PackageReadmeFile>README.md</PackageReadmeFile>
-      <RepositoryUrl>https://github.com/lunasoft/SW-sdk-Net6</RepositoryUrl>
+      <RepositoryUrl>https://github.com/swsapiendev/sw-sdk-net6</RepositoryUrl>
 	  <RepositoryType>Git</RepositoryType>
 	  <RepositoryBranch>Master</RepositoryBranch>
 	  <Copyright>Copyright SW sapien®</Copyright>
